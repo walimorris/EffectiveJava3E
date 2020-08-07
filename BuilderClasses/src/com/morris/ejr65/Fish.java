@@ -9,6 +9,7 @@ package com.morris.ejr65;
  * @author Wali Morris
  * @since 08/06/2020
  */
+
 public class Fish {
     final private int eyes;
     final private int fins;
